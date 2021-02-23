@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**AdrianDamiao/adriandamiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Adrian Damião
 
-Here are some ideas to get you started:
+## Olá pessoal 👋
+Gosto muito de estudar programação web e redes de computadores
+Por enquanto sou apenas estudante :hourglass_flowing_sand:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estou estudando Javascript e MySQL
+- :heavy_check_mark: Objetivo: Ser capaz de poder otimizar algo no ambiente em que vivo utilizando a computacao
+- 💬 Sobre mim: Amante de tecnologias, jogos de FPS e admirador/apoiador da Policia :computer: :video_game: :rotating_light:
+- :e-mail: Email: adriandami_@hotmail.com
+
+
