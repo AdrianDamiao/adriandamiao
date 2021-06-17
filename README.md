@@ -2,7 +2,7 @@
 # Adrian Damião
 
 ## Olá pessoal 👋
-Gosto muito de estudar programação web e redes de computadores
+Gosto muito de estudar programação web e redes de computadores.
 Por enquanto sou apenas estudante :hourglass_flowing_sand:
 
 - 🌱 Estou estudando Javascript e MySQL
