@@ -11,4 +11,3 @@ Por enquanto sou apenas estudante. :hourglass_flowing_sand:
 - :e-mail: Email: adriandami_@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/adrian-damião-69b1b8148/
 
-
