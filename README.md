@@ -9,5 +9,6 @@ Por enquanto sou apenas estudante. :hourglass_flowing_sand:
 - :heavy_check_mark: Objetivo: Ser capaz de poder otimizar algo no ambiente em que vivo utilizando a computacao
 - 💬 Sobre mim: Amante de tecnologias, jogos de FPS e admirador/apoiador da Policia :computer: :video_game: :rotating_light:
 - :e-mail: Email: adriandami_@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/adrian-damião-69b1b8148/
 
 
