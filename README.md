@@ -5,7 +5,7 @@
 Gosto muito de estudar programação web e redes de computadores.
 Por enquanto, sou apenas estudante. :hourglass_flowing_sand:
 
-- 🌱 Estudando Javascript e MySQL.
+- 🌱 Estudando C# e Typescript.
 - :heavy_check_mark: Objetivo: Ser capaz de otimizar algo no ambiente em que vivo utilizando a computação.
 - 💬 Sobre mim: Amante de tecnologias, jogos de FPS e admirador/apoiador da Polícia. :computer: :video_game: :rotating_light:
 - :e-mail: Email: adriandami_@hotmail.com
