@@ -15,7 +15,7 @@ Atualmente trabalho como Desenvolvedor Fullstack Júnior para o [Grupo SOITIC](h
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriandamiao&layout=compact&langs_count=5&theme=merko&locale=pt-br"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt=".NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt=".NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" href="http://www.google.com">
   <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
