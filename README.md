@@ -42,8 +42,8 @@ Atualmente trabalho como Desenvolvedor Fullstack Júnior para o [Grupo SOITIC](h
  ##
  
  <div> 
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" alt="Adrian Damião#3374"</a> 
- <a href = "mailto:adriandami_@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+ <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" alt="Adrian Damião#3374" title="Adrian Damião#3374"></a> 
+ <a href = "mailto:adriandami_@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" title="adriandami_@hotmail.com"></a>
   <a href="https://www.linkedin.com/in/adrian-dami%C3%A3o-69b1b8148" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
  
