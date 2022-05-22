@@ -5,7 +5,7 @@
 Gosto muito de estudar desenvolvimento web e também a área de redes de computadores.<br>
 Atualmente trabalho como Desenvolvedor Fullstack Júnior para o [Grupo SOITIC](https://soitic.com.br). 👨‍💻
 
-- 🌱 Estudando ASP.NET Core, C# e Typescript.
+- 🌱 Atualmente estudando ASP.NET Core, C# e Typescript com foco em Testes Unitários. 
 - :heavy_check_mark: Objetivo: Ser capaz de otimizar algo no ambiente em que vivo utilizando a computação.
 - 💬 Sobre mim: Amante de tecnologias, jogos de FPS e admirador/apoiador da Polícia. :computer: :video_game: :rotating_light:
 
