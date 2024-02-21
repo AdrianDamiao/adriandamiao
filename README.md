@@ -3,7 +3,7 @@
 
 ## Olá pessoal 👋
 Gosto muito de estudar desenvolvimento web e também a área de redes de computadores.<br>
-Atualmente trabalho como Desenvolvedor Fullstack Júnior para o [Grupo SOITIC](https://soitic.com.br). 👨‍💻
+Atualmente trabalho como Desenvolvedor Fullstack Pleno para o [Grupo SOITIC](https://soitic.com.br). 👨‍💻
 
 - 🌱 Atualmente estudando ASP.NET Core, C# e lendo o Clean Code (Cap°12). 
 - :heavy_check_mark: Objetivo: Ser capaz de otimizar algo no ambiente em que vivo utilizando a computação.
